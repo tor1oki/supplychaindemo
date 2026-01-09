@@ -3,6 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
+  "homepage": "https://tor1oki.github.io/supplychaindemo/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
